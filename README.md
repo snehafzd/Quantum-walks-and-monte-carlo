@@ -1,5 +1,5 @@
 # Quantum-walks-and-monte-carlo
-The simulation of the quantum galton box, [Universal statistical simulator](https://arxiv.org/pdf/2202.01735) for **Womanium and wiser project 2025**, Designed by **naval nuclear laboratory**
+The simulation of the quantum galton box, [Universal statistical simulator](https://arxiv.org/pdf/2202.01735) for **Womanium and wiser project 2025**.
 
 
 Project Name: Quantum walks and Monte carlo 
