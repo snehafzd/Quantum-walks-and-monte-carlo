@@ -35,7 +35,7 @@ The two page review of Universal Statistical Simulator is submitted [here](https
 
 **Using the 1- and 2-layer Galton Box code as a starting point, write a general algorithm that generates a circuit for any number of layers. Run and verify that the output is a Gaussian distribution. You may use any quantum SDK and platform for your implementation.**
 
-In code, we first follow the universal gate simulator to build a 1 layer and 2 layer circuit. For n Layers, we generate a for loop over controlled  swap and control not  gate such that it will follow triangle number. We use 
+In [code](https://github.com/snehafzd/Quantum-walks-and-monte-carlo/blob/main/Qunatum%20galton%20board/Quantum%20galton%20board.ipynb), we first follow the universal gate simulator to build a 1 layer and 2 layer circuit. For n Layers, we generate a for loop over controlled  swap and control not  gate such that it will follow triangle number. We use 
 
 $no. of qubits =one ball qubit +one control qubit+qubit above ball +qubit below ball$
 
