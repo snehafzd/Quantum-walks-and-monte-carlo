@@ -31,7 +31,7 @@ Challenge deliverables:
 
 **Review the paper, and any related resources to learn how to implement quantum Galton boards. Prepare a summary of your understanding in a well structured 2-pager document.**  
 
-The two page review of Universal Statistical Simulator is submitted here. 
+The two page review of Universal Statistical Simulator is submitted [here](https://github.com/snehafzd/Quantum-walks-and-monte-carlo/blob/main/Qunatum%20galton%20board/Summary%20of%20quantum%20Simulator.pdf). 
 
 **Using the 1- and 2-layer Galton Box code as a starting point, write a general algorithm that generates a circuit for any number of layers. Run and verify that the output is a Gaussian distribution. You may use any quantum SDK and platform for your implementation.**
 
